@@ -1,0 +1,32 @@
+_repo: Old-Continental-Towns_46251
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46251-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gallichan, Walter M. (Walter Matthew)
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '42308'
+    url: http://www.gutenberg.org/2009/agents/42308
+    wikipedia: http://www.gutenberg.org/ebooks/author/45230
+description: ''
+gutenberg_issued: '2014-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'Cities and towns -- Europe'
+- !lcc 'D'
+tableOfContents: Rome -- Assisi -- Venice -- Perugia -- Florence -- Verona -- Seville
+  -- Cordova -- Toledo -- Granada -- Oporto -- Poitiers -- Rouen -- Chartres -- Rheims
+  -- Brughes -- Ghent -- Antwerp -- Amsterdam -- Cologne -- Heidelberg -- Nuremberg
+  -- Wittenburg -- Prague -- Athens.
+title: Old Continental Towns
+url: http://www.gutenberg.org/ebooks/46251
